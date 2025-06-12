@@ -2,6 +2,7 @@ import pytchat
 from time import sleep
 import pyautogui
 import datetime
+#ORIGINAL SOUND SCRIPT BY @MCPBANANA ON YOUTUBE
 
 streamID = 'Nb5uuZlmTEk'
 chat = pytchat.create(streamID)
