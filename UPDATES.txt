@@ -1,0 +1,1 @@
+The mute system (people who you find annoying spamming sounds) works (changing persons username may cause them to be unmuted). Recommendations now work.
